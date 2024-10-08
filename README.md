@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileemoy&label=Profile%20views&color=0e75b6&style=flat" alt="nileemoy" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs.**
 
 - 👯 I’m looking to collaborate on **anything**
 
