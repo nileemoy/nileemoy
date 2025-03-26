@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileemoy&label=Profile%20views&color=0e75b6&style=flat" alt="nileemoy" /> </p>
 
-- 🌱 I’m currently learning **NextJs.**
+- 🌱 I’m currently learning *NextJs.*
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on *anything*
 
-- 📫 How to reach me **nileemoypathak@gmail.com**
+- 📫 How to reach me *nileemoypathak@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileemoy&show_icons=true&locale=en" alt="nileemoy" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nileemoy" alt="GitHub Streak" /></a>
+<a href="https://github.com/nileemoy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nileemoy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
