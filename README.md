@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nileemoy Pathak</h1>
-<h3 align="center">A passionate developer exploring new technologies.</h3>
+<h3 align="center">A passionate, exploring new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileemoy&label=Profile%20Views&color=0e75b6&style=flat" alt="nileemoy" /> </p>
 
 ## About Me
 
-Hello there! I'm Nileemoy Pathak, a developer with a passion for learning and building. I'm currently expanding my skills in front-end development with a focus on **Next.js**.
+Hello there! I'm Nileemoy Pathak, a developer with a passion for learning and building. I'm currently expanding my skills in **Next.js**.
 
 I'm always open to collaborating on interesting projects. If you have an idea you'd like to discuss or are looking for a project partner, feel free to reach out. I'm eager to contribute and learn from the community.
 
