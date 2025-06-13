@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello there! I'm Nileemoy Pathak, a developer with a passion for learning and building. I'm currently expanding my skills in **Next.js**.
+Hello there! I'm Nileemoy Pathak, a developer with a passion for learning and building.
 
 I'm always open to collaborating on interesting projects. If you have an idea you'd like to discuss or are looking for a project partner, feel free to reach out. I'm eager to contribute and learn from the community.
 
